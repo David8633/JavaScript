@@ -67,3 +67,6 @@ function división(num1,num2){
 /*Muestra por consola la módulo de ambas variables.*/
 
 console.log(num1%num2)
+
+/*Declara una variable cuyo valor sea tu nombre.*/
+let nombre = "David"
