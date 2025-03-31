@@ -20,3 +20,16 @@ numero = 54;
 let variabl1 = 5;
 let variable2 = 2;
 
+/*Muestra por consola la suma de ambas variables.*/
+let numero1 = 1;
+let numero2 = 3;
+
+function sumare(numero1,numero2){
+    return numero1+numero2
+}
+
+const sumar = (numero1,numero2) => {numero1 + numero2}; 
+
+let fin = "Ya se ha realizado la suma"
+let finerroneo = " no se ha realizado la suma"
+(sumar()>7)?console.log(sumar(3,4)):console.log(finerroneo);
