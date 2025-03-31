@@ -63,3 +63,7 @@ const multiplicación = (numero1,numero2) => (numero1*numero2);
 function división(num1,num2){
     return num1/num2;
 }
+
+/*Muestra por consola la módulo de ambas variables.*/
+
+console.log(num1%num2)
