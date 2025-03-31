@@ -48,3 +48,13 @@ let final = "Ya se ha realizado la resta"
 let finerroneos = " no se ha realizado la resta"
 (restar()>7)?console.log(restar(3,4)):console.log(finerroneo);
 
+
+/*Muestra por consola la multiplicación de ambas variables.*/
+let num1 = 1;
+let num2 = 2;
+
+function multiplicación(num1,num2){
+    return num1*num2;
+}
+
+const multiplicación = (numero1,numero2) => (numero1*numero2);
