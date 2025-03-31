@@ -33,3 +33,18 @@ const sumar = (numero1,numero2) => {numero1 + numero2};
 let fin = "Ya se ha realizado la suma"
 let finerroneo = " no se ha realizado la suma"
 (sumar()>7)?console.log(sumar(3,4)):console.log(finerroneo);
+
+/*Muestra por consola la resta de ambas variables.*/
+let n1 = 1;
+let n2 = 3;
+
+function restar(numero1,numero2){
+    return numero1+numero2
+}
+
+const restar = (numero1,numero2) => {numero1 + numero2}; 
+
+let final = "Ya se ha realizado la resta"
+let finerroneos = " no se ha realizado la resta"
+(restar()>7)?console.log(restar(3,4)):console.log(finerroneo);
+
