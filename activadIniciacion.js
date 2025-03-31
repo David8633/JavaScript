@@ -58,3 +58,8 @@ function multiplicación(num1,num2){
 }
 
 const multiplicación = (numero1,numero2) => (numero1*numero2);
+
+/*Muestra por consola la división de ambas variables.*/
+function división(num1,num2){
+    return num1/num2;
+}
