@@ -6,4 +6,7 @@ let palabra = "Hola Mundo";
 let respuesta = true; 
 /*Crea una constante con nombre pi cuyo valor sea 3.14*/
 const pi = 3.14;
+/*Modifica el valor de la variable numero para que en lugar de -4 sea 54 pero 
+sin tocar la parte de la declaración de la variable.*/
+numero = 54;
 
